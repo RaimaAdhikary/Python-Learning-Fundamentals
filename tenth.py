@@ -24,3 +24,13 @@ print(st.find("Can"))
 print(st.replace("o","e"))
 print(st.replace("we","They"))
 print(st.count("a"))
+
+#Wap to input a string and find its length
+inp=input("enter string: ")
+print(inp)
+print(len(inp))
+
+#WAP to find the occurance of @ in a string
+inp2="rai@gmail.@com"
+print(inp2.find("@"))
+print(inp2.count("@"))

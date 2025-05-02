@@ -31,3 +31,18 @@ print(N)
 N%=2
 print(N)
 
+
+#Logical operators
+# not and or
+print(not True)
+print(not False)
+a=20
+b=10
+print(not (a>b))
+c=True
+d=False
+print((a>b) and c or d)
+
+
+
+

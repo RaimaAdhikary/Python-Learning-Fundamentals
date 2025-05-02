@@ -42,6 +42,10 @@ print(not (a>b))
 c=True
 d=False
 print((a>b) and c or d)
+print(c and d)
+print(c or d)
+print(c and c)
+print(d or d)
 
 
 
